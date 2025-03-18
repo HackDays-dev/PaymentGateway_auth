@@ -1,6 +1,6 @@
 #                       Payment Gateway Security Challenge
 
-**## Overview:**
+** ## Overview:**
 This project involves building a secure payment gateway using Node.js. Participants will solve the error "msg": "No token, authorization denied" by implementing proper authentication and authorization mechanisms. The goal is to ensure that only authenticated users can access the payment gateway and perform transactions.
 
 Participants will also install and use the following Node.js libraries:
