@@ -3,7 +3,7 @@
 ## **Overview:**
 This project involves building a secure payment gateway using Node.js. Participants will solve the error "msg": "No token, authorization denied" by implementing proper authentication and authorization mechanisms. The goal is to ensure that only authenticated users can access the payment gateway and perform transactions.
 
-Participants will also install and use the following Node.js libraries:
+**Participants will also install and use the following Node.js libraries:**
 
 1. express: For building the server.
 2. body-parser: For parsing incoming request bodies.
@@ -12,7 +12,7 @@ Participants will also install and use the following Node.js libraries:
 5. bcrypt: For hashing sensitive data like passwords.
 6. sqlite3: For interacting with a SQLite database.
 
-Problem Statement
+## **Problem Statement**
 Secure and Scalable Payment Gateway Backend
 
 
@@ -26,8 +26,8 @@ The project aims to develop the backend infrastructure for a secure and scalable
 6. Maintain a modular and well-organized codebase
 7. Implement basic security measures
 
-When making a request to the payment gateway, the following error is returned:
-Your task is to:
+*When making a request to the payment gateway, the following error is returned:
+Your task is to:*
 
 Identify the cause of the error.
 Implement a secure authentication system using JSON Web Tokens (JWT).
